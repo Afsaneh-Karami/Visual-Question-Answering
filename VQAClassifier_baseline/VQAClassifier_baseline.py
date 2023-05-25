@@ -1,16 +1,3 @@
-#####################################################
-# VQAClassifier_baseline.py
-# 
-# Program adapted and rewriten from the following sources:
-# https://www.tensorflow.org/tutorials
-# https://pypi.org/project/sentence-transformers/
-#
-# See file README.txt for further details.
-# 
-# Version: 1.0 
-# Date: 01 March 2023
-# Contact: hcuayahuitl@lincoln.ac.uk
-#####################################################
 
 from pyexpat import features
 import sys
