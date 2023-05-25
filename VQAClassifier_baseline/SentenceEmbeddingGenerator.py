@@ -1,20 +1,3 @@
-#####################################################
-# SentenceEmbeddingGenerator.py
-# 
-# This program is use to generate text features for the following program:
-# VQAClassifier_baseline.py
-#
-# If you already have file "vaq2.cmp9137.sentence_transformers.txt", you
-# DON'T need to generate them again. Feel free to re-run it, or to change
-# it if you wish to try out alternative versions of sentence embeddings. 
-# 
-# To run this Python program you will need to install the following: 
-# pip install sentence-transformers
-# 
-# Version: 1.0 
-# Date: 01 March 2023
-# Contact: hcuayahuitl@lincoln.ac.uk
-#####################################################
 
 import pickle
 from sentence_transformers import SentenceTransformer
