@@ -91,7 +91,7 @@ result, the VQA task does not require deep CNN.<br/>
 * Transformer
 ![transformer](https://github.com/Afsaneh-Karami/Visual-Question-Answering/assets/78735911/1a8242ea-3840-4e34-95ce-d7ae2fc22652)
 * Table
-* <p align="center">
+<p align="center">
 <img width="448" alt="Screenshot 2023-05-25 213039" src="https://github.com/Afsaneh-Karami/Visual-Question-Answering/assets/78735911/5ea1f826-3fc7-4037-b553-c06232e21e34">
   </p>
 
