@@ -78,6 +78,19 @@ and lower recall). Inception and ResNet are two deep CNN
 and logically need lower epochs to train. The transformer had
 the most oscillation in the validation process. Based on the
 result, the VQA task does not require deep CNN.<br/>
+* base model
 ![basemodel](https://github.com/Afsaneh-Karami/Visual-Question-Answering/assets/78735911/a58eacc4-f4fd-4acf-ac80-89e3a4790190)
+* Inceptionv3
+![inceptionv3](https://github.com/Afsaneh-Karami/Visual-Question-Answering/assets/78735911/90dd3fab-ab24-47f4-96e2-6b4e476f16b0)
+* MobileNetV2
+![mobilenet_v2](https://github.com/Afsaneh-Karami/Visual-Question-Answering/assets/78735911/011bbd6b-7a33-45db-beb5-b2d68065fc38)
+* NASNetMobile
+![nasnet](https://github.com/Afsaneh-Karami/Visual-Question-Answering/assets/78735911/25e6f490-ddad-4ff7-b083-67c4a58604db)
+* ResNet50
+![resnet50](https://github.com/Afsaneh-Karami/Visual-Question-Answering/assets/78735911/4378de7c-f25d-4f9d-b514-479d631e54c8)
+* Transformer
+![transformer](https://github.com/Afsaneh-Karami/Visual-Question-Answering/assets/78735911/1a8242ea-3840-4e34-95ce-d7ae2fc22652)
+* Table
+<img width="448" alt="Screenshot 2023-05-25 213039" src="https://github.com/Afsaneh-Karami/Visual-Question-Answering/assets/78735911/5ea1f826-3fc7-4037-b553-c06232e21e34">
 
 
